@@ -1,0 +1,16 @@
+genesis block location, parametrs passed in the function , timestamp, nonce , how doo we initialise and where it is , adding the library , how do we makesure currentt timestamp is captured , dierectly fetch the current time and use it, null pointer and timestamp how will it work
+library used for time
+merkle root 
+hash value alternating 
+instruction of lock 
+concurrent transactions 
+hash of current block ,height in the parameter 
+size of map 
+open ssl library 
+collision,
+why not linked list why hash
+storing of the blocks
+making changes in the code
+miners who is it who is mentioned order or random
+which miners in having which block 
+
