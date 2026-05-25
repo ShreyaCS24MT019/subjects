@@ -1,0 +1,11 @@
+Precision : Out of all the positive prediction we made how many of them were actually true. 
+"When I say it's positive, how often am I right?"
+ Out of all the people you diagnosed as sick, how many actually have the disease?
+ 
+ 
+Recall : Out of all the correct answers how many of them are actually inclded in the predicted true section sensitivity or true positive rate. 
+ Out of all the people who actually have the disease, how many did you correctly identify?
+ 
+ 
+F1 Score : combines precision and recall and balances to metrics .
+ It's high only when both precision and recall are good.
